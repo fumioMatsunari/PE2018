@@ -6,6 +6,7 @@
 #### 開催場所　名古屋工業大学 21号館１F2111室
 * Wifi　５０ゲストアカウントを取ってくれる 白松先生
 * 大きな白版が4方にびっちりと張られています。
+* https://drive.google.com/file/d/16eWtapszATClWgY3N-TEuembdt33ogZl/view?fbclid=IwAR15Gkrw7QyLpPMB4YXbdNZ0vi158QIewhQp7vWUe7yxG6HNL6WLb9Eryxc
 
 #### 開催日時　2018年10月27日（土）9:00～16:30
 <br>　　後記：タイムスケジュール参照
@@ -112,4 +113,5 @@
 - そんな感じで行ければと思います。
 - 初めての（アルコール抜きでは）夜の会です。無理のないとこで参加願えれば有難いです。
 
+## ワークショップ　資料
 
